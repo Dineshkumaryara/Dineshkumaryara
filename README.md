@@ -1,12 +1,12 @@
-![logo](https://github.com/Dineshkumaryara/Dineshkumaryara.git)
+![logo](https://github.com/Dineshkumaryara/Dineshkumaryara/blob/main/github_banner.png)
 <h1 align="center">Hi 👋, I'm Yara Dinesh Kumar</h1>
 <h3 align="center">Your Next Favorite Developer</h3>
-<img align="right" alt="coding" width="400" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/male-programmer-doing-coding-work-9560195-7793573.mp4">
+<img align="right" alt="coding" width="400" src="https://github.com/Dineshkumaryara/Dineshkumaryara/assets/110585667/4b348c5a-6444-4215-af6a-27964af1acdc">
+
 - 🌱 I’m currently learning **Spring Boot**
 
 - 📫 How to reach me **2100031355cseh@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
