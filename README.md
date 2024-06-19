@@ -1,4 +1,3 @@
-![logo](https://github.com/Dineshkumaryara/Dineshkumaryara/blob/main/github_banner.png)
 <h1 align="center">Hi 👋, I'm Yara Dinesh Kumar</h1>
 <h3 align="center">Your Next Favorite Developer</h3>
 
